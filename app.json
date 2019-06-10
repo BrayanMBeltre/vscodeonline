@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "Vs Code Online",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "vscodeonline",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
